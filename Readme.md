@@ -14,6 +14,7 @@
 - [RASHMI PATEL](https://github.com/Rashmipatel044/target_upcurve)
 - [Christina Joseph Jyothula](https://github.com/christinajjy/target_upcurve_2024)
 - [Baby Vijaya Shree ](https://github.com/BabyVijayaShree/Upcurve-PE)
+- [Sattineti Annapurna](https://github.com/Sbharathiannapurna/Sattineti-annapurna)
 
 ## Software Setup:
 
